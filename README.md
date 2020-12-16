@@ -28,5 +28,4 @@ Para validar los servicios de reconocimiento facial en la carpeta App se encuent
 
 * [Amazon Rekognition](https://aws.amazon.com/es/) - Reconocimiento Facial
 * [VoiceIt](https://voiceit.io/) - Reconocimiento de voz
-* [Materialize](http://materializecss.com/) - Front-end framework
-* [Sweet Alert 2](https://limonte.github.io/sweetalert2/) - Alertas dinámicas en JavaScript
+* [Sweet Alert 2](https://limonte.github.io/sweetalert2/) - Alertas dinámicas en JavaScript.
